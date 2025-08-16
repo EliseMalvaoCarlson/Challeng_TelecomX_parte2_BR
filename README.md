@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="challenge_2.png" alt="Imagem Challenge 2" width="600"/>
+</p>
 
 # 📊 TelecomX – Previsão de Churn com Machine Learning
 
