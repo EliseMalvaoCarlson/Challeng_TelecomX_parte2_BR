@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="badge.png" alt="Imagem Challenge 2" width="600"/>
+  <img src="imagem da badge.png" alt="Imagem Challenge 2" width="600"/>
 </p>
 
 # 📊 TelecomX – Previsão de Churn com Machine Learning
