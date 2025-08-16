@@ -1,6 +1,4 @@
-Claro, Elise! Com base no conteúdo do notebook e na estrutura do seu projeto, aqui está um modelo de **README.md** ideal para o GitHub, com linguagem clara, profissional e voltada para quem deseja entender, executar ou contribuir com o projeto:
 
----
 
 # 📊 TelecomX – Previsão de Churn com Machine Learning
 
@@ -101,6 +99,3 @@ Esse modelo equilibra sensibilidade e precisão, sendo ideal para aplicações p
 
 Sugestões de melhorias, novos modelos ou visualizações são bem-vindas! Basta abrir uma issue ou enviar um pull request.
 
----
-
-Se quiser, posso gerar uma versão visual desse README com emojis, badges e links formatados para GitHub. Quer que eu prepare isso?
